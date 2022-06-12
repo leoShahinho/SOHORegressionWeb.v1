@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Retired tests/Retired.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/SetupsAndPages/Pages/SOHOPage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Billing.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Caller_ID.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/CambioDomicilio.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/ConsultasTV.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/ContratacionOnePro.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/ContratarOnePro.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/DesvioLlamadasME.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Deuda.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Extras.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Ofertas.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Permas_Partis.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/PinPUK.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Prepagos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/ReparaciónTerminal.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/RegreSoho/Roaming.java" charset="windows-1252" />
+    <file url="PROJECT" charset="ISO-8859-1" />
+  </component>
+</project>

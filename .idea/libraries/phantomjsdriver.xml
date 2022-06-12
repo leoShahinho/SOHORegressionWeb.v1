@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="phantomjsdriver">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/com/codeborne/phantomjsdriver" />
+      <root url="file://$PROJECT_DIR$/lib/cglib" />
+      <root url="file://$PROJECT_DIR$/lib/com" />
+      <root url="file://$PROJECT_DIR$/lib/commons-codec" />
+      <root url="file://$PROJECT_DIR$/lib/commons-io" />
+      <root url="file://$PROJECT_DIR$/lib/commons-logging" />
+      <root url="file://$PROJECT_DIR$/lib/io" />
+      <root url="file://$PROJECT_DIR$/lib/junit" />
+      <root url="file://$PROJECT_DIR$/lib/net" />
+      <root url="file://$PROJECT_DIR$/lib/org" />
+      <root url="file://$PROJECT_DIR$/lib/xalan" />
+      <root url="file://$PROJECT_DIR$/lib/xerces" />
+      <root url="file://$PROJECT_DIR$/lib/xml-apis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/cglib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/com" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/com/codeborne/phantomjsdriver" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/commons-codec" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/commons-io" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/commons-logging" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/io" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/junit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/net" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/org" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xalan" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xerces" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/xml-apis" recursive="false" />
+  </library>
+</component>

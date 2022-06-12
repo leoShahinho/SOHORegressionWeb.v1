@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-04T16:48:27 EET" name="Default suite" finished-at="2022-03-04T16:48:58 EET" duration-ms="30782">
+    <groups>
+    </groups>
+    <test started-at="2022-03-04T16:48:27 EET" name="Default test" finished-at="2022-03-04T16:48:58 EET" duration-ms="30782">
+      <class name="RegreSoho.CitrixONO">
+        <test-method is-config="true" signature="prepare()[pri:0, instance:RegreSoho.CitrixONO@60099951]" started-at="2022-03-04T16:48:27 EET" name="prepare" finished-at="2022-03-04T16:48:33 EET" duration-ms="5791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepare -->
+        <test-method signature="CitrixONO_Chrome()[pri:0, instance:RegreSoho.CitrixONO@60099951]" started-at="2022-03-04T16:48:33 EET" name="CitrixONO_Chrome" finished-at="2022-03-04T16:48:58 EET" duration-ms="24957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitrixONO_Chrome -->
+      </class> <!-- RegreSoho.CitrixONO -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
